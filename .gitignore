@@ -1,0 +1,9 @@
+videos/
+tracked/
+csv_data/
+reports/
+*.mp4
+*.csv
+url_cache.txt
+__pycache__/
+*.pyc
